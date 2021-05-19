@@ -30,4 +30,6 @@ int main()
     printf("Mon float = %f et fait %d octets\n", myFloat, sizeof(myFloat));
     printf("Mon double = %.12f et fait %d octets\n", myDouble, sizeof(myDouble));
     printf("Mon char= %c et fait %d octets\n", myChar, sizeof(myChar));
+
+    return 0;
 }
