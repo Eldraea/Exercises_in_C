@@ -38,4 +38,6 @@ int main()
 
     printf("Vous etes %c.%c, vous avez %d ans, et vous mesurez %.2f metres", toupper(prenom),toupper(nom), age, taille);
 
+    return 0;
+
 }
